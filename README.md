@@ -1,8 +1,8 @@
-<h1 align="center">Live link</h1>
+<h1 align="center">Counter Up Trigger</h1>
+
+### Live link
 
 https://counter-up-down-trigger.vercel.app/
-
-<h1 align="center">Counter Up Trigger</h1>
 
 ### Interface
 
